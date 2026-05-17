@@ -6,8 +6,8 @@
 
 Установка:\
     1. Скачать Ollama: https://ollama.com → установить\
-    2. В CMD: `ollama pull phi3`\
+    2. В CMD: `ollama pull llama3.1`\
     3. `pip install python-docx pdfplumber requests`
 
 Запуск:\
-     `python main.py --doc_a A.pdf --doc_b B.pdf --doc_c C.pdf --model phi3`
+     `python main.py --doc_a A.pdf --doc_b B.pdf --doc_c C.pdf --model llama3.1`
